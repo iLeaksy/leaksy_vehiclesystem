@@ -5,8 +5,6 @@ Citizen.CreateThread(function()
         local veh = GetVehiclePedIsIn(ped, false)
         local vehclass = GetVehicleClass(veh)
         if veh ~= nil then
-			--print(veh)
-           -- print(vehclass)
             if GetVehicleClass(veh) == 0 then
                 ModifyVehicleTopSpeed(GetVehiclePedIsIn(ped, false), Config.Compacts);
             elseif GetVehicleClass(veh) == 1 then
