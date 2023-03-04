@@ -1,10 +1,7 @@
 # Resource Preview 
 
 
-
-
 https://user-images.githubusercontent.com/48810550/222904151-e7a29f96-8d89-4a0e-a6ae-c33cf704ba62.mp4
-
 
 
 ### **Installation** :hammer:
@@ -20,6 +17,14 @@ https://user-images.githubusercontent.com/48810550/222904151-e7a29f96-8d89-4a0e-
 
 [GitHub Page](https://github.com/iLeaksy/leaksy_vehiclesystem) 
 [Direct Download](https://github.com/iLeaksy/leaksy_vehiclesystem/archive/refs/heads/main.zip)
+
+### **Resource Usage** :oncoming_automobile: 
+
+**While in vehicle**
+https://i.imgur.com/pAkwbK6.png
+**Out of vehicle**
+https://i.imgur.com/9AZQWy5.png
+
 
 ### **Usage** :potted_plant:
 
