@@ -12,12 +12,6 @@ https://user-images.githubusercontent.com/48810550/222904151-e7a29f96-8d89-4a0e-
 - Edit the config.lua file to your liking!
 - Thats it, you are ready to go!
 
-
-### **Download Links** :arrow_down:
-
-[GitHub Page](https://github.com/iLeaksy/leaksy_vehiclesystem) 
-[Direct Download](https://github.com/iLeaksy/leaksy_vehiclesystem/archive/refs/heads/main.zip)
-
 ### **Resource Usage** :oncoming_automobile: 
 
 **While in vehicle**
@@ -34,3 +28,5 @@ This standalone script is used for boosting vehicle speeds, please note that in 
  ### **Additional Notes** :spiral_notepad:
 
 This resource/script has no additional requirements, you just download it and start it! 
+
+[My Discord Server](https://discord.com/invite/AmcVRwUjjU)
