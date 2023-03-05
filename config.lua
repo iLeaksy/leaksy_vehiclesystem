@@ -37,6 +37,6 @@ Config.Trains = 100.00
 -- All model names should be in Capital Letters, small letters will not work!
 -- Example: model = "sultanrs" *WILL NOT WORK*, while model = "SULTANRS" *WILL* work!
 Config.CustomSpeeds = {
-    {model = "SULTANRS", speed = 1004.00},
-    {model = "SULTAN", speed = 104.00}
+    {model = "SULTANRS", speed = 100.00},
+    {model = "SULTAN", speed = 100.00}
   }

@@ -61,7 +61,6 @@ Citizen.CreateThread(function()
             end
         end)
 elseif Config.Handling == 'vehicles' then
-    --print('vehicles')
     Citizen.CreateThread(function()
         while true do
             Citizen.Wait(10)
