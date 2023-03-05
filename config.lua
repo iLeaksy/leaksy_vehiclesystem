@@ -6,7 +6,7 @@
 
 Config = {}
 
-Config.Handling = "vehicles" -- "classes" or "vehicles" - choose between Classes or Certain Vehicles
+Config.Handling = "classes" -- "classes" or "vehicles" - choose between Classes or Certain Vehicles
 
 -- Config.VehiclesClass = EXAMPLEBOOST.00
 Config.Compacts = 100.00
