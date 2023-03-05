@@ -36,8 +36,8 @@ Config.Trains = 100.00
 -- NOTES
 -- Aftehr the update on 3/5/2023, it will wor  with DEFAULT SPAWN CODES !!! :)
 Config.CustomSpeeds = {
-    {model = "sultanrs", speed = 1000.00},
-    {model = "sultan", speed = 104.00},
-    {model = "feltzer2", speed = 1004.00},
-    {model = "feltzer3", speed = 1004.00}
+    {model = "sultanrs", speed = 101.00},
+    {model = "sultan", speed = 102.00},
+    {model = "feltzer2", speed = 103.00},
+    {model = "feltzer3", speed = 104.00}
 }
