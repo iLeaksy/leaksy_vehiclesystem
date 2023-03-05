@@ -9,6 +9,8 @@ Config = {}
 Config.Handling = "classes" -- "classes" or "vehicles" - choose between Classes or Certain Vehicles
 
 -- Config.VehiclesClass = EXAMPLEBOOST.00
+-- If you want to slow down a vehicle just add a - before the number
+-- Config.VehicleClass = -EXAMPLEBOOST.00
 Config.Compacts = 100.00
 Config.Sedans  = 100.00
 Config.SUVs  = 100.00
